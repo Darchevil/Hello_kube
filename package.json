@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Darchevil/Hello_kube/issues"
   },
-  "homepage": "https://github.com/Darchevil/Hello_kube#readme"
+  "homepage": "https://github.com/Darchevil/Hello_kube#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
 }
